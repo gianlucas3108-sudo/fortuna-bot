@@ -1,0 +1,3 @@
+# Enthält den Bot-Token – niemals hochladen!
+config.env
+__pycache__/
